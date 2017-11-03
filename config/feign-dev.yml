@@ -1,2 +1,4 @@
 feign:
   value: foobar
+
+foo: bar
